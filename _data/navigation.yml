@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "Home"
+    url: https://kimrumm.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/kimrumm
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  - title: "Github"
+    url: /categories/Github/
+
+  - title: "Java"
+    url: /categories/Java/
+
+  - title: "📚Books"
+    url: /categories/Books/
