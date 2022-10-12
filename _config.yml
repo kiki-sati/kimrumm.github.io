@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "kimrumm" # 블로그 닉네임
   avatar: "/assets/images/catme.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
+  bio              : "지름길을 찾기보단,<br>지속 가능한 길을 찾아가고 있습니다 🚀"
+  #location: "지름길을 찾기보단, 지속 가능한 길을 찾아가고 있습니다 🚀"
   # email            : "youremailhere@xxxxxx.com"
 
   links: # 사이트 링크
