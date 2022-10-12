@@ -19,12 +19,7 @@ last_modified_at: 2022-10-12
 ## 📍 jekyll 테마 적용하기
 앞에서 기존 세팅을 완료하였으니, 이젠 원하는 테마를 적용 할 차례다.
 
-<details>
-<summary>👉🏻 이전글 - [Github 블로그 - jekyll] 블로그 시작하기(1) - chruby, ruby 설치</summary>
-<div markdown="1">
-    <a href="https://kimrumm.github.io/Github/first/">이전글 바로가기</a>
-</div>
-</details>  
+👉🏻 [이전글 - [Github 블로그 - jekyll] 블로그 시작하기(1) - chruby, ruby 설치](https://kimrumm.github.io/Github/first/)
 
 jekyll 테마를 모아놓은 대표적인 사이트들이다.
 아래 사이트들에서 원하는 오픈소스를 활용하여 커스텀 및 가져와서 만들 수 있다.
