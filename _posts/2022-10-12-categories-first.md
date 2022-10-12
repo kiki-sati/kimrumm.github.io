@@ -1,6 +1,6 @@
 ---
 title: "[Github 블로그 - jekyll] 블로그 시작하기(1) - chruby, ruby 설치"
-excerpt: "첫글 테스트!"
+excerpt: "Repository생성 및 chruby, ruby 설치하기"
 
 categories:
   - Github
