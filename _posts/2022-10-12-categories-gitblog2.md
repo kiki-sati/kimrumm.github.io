@@ -30,7 +30,7 @@ jekyll 테마를 모아놓은 대표적인 사이트들이다.
 
 Simple Is The Best !   
 아래 테마를 기본적으로 깔끔해서 많이 사용 하는 것 같다.
-- https://github.com/mmistakes/minimal-mistakes
+- <https://github.com/mmistakes/minimal-mistakes>
 
 이렇게 다양한 테마도 있어서 입맛대로 설정 할 수 있다. 
 ![](/assets/images/posts_img/github-2/스크린샷 2022-10-12 오후 3.47.02.png)
