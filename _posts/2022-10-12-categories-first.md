@@ -51,10 +51,8 @@ Jekyll를 사용하려면 Ruby 개발환경이 필요하다.
 
 ### 2. Homebrew로 설치
 <aside>
-💡 기존에 Homebrew가 설치되어있기때문에 설치는 생략했습니다.   
+💡 기존에 Homebrew가 설치되어있기때문에 설치 방법은 생략하였지만, 아래 토글로 확인 할 수 있습니다.
 </aside>
-
-<br>
 <details>
 <summary>Homebrew 설치하기</summary>
 <div markdown="1">
