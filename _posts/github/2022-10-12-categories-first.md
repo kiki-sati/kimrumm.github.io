@@ -1,11 +1,11 @@
 ---
-title: "[Github 블로그 - jekyll] 블로그 시작하기(1) - chruby, ruby 설치"
+title: "[Github 블로그 - Jekyll] 블로그 시작하기(1) - chruby, ruby 설치"
 excerpt: "Repository생성 및 chruby, ruby 설치하기"
 
 categories:
-  - Github
+- Jekyll
 tags:
-  - [Github]
+- [Github, Jekyll]
 
 permalink: /Github/first/
 
@@ -78,7 +78,7 @@ ruby-install ruby
 ```
 
 하지만 오류 발생..^^
-![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.56.50.png)
+![](/assets/images/posts_img/github-first/스크린샷%202022-10-11%20오후%209.56.50.png)
 
 현재 14인치 맥북프로 (M1 Pro) 인데, M1이라 그런지 위에 방법으론 설치가 안됐다.    
 그래서 폭풍 검색 후 해결 방법을 찾았다.
@@ -99,14 +99,14 @@ brew config
 아래쪽에서 `CLT:`와 `Xcode:`로 시작하는 줄을 찾는다.   
 둘 중 하나가 `14`로 시작하는 경우 다음과 같이 Ruby를 설치해야한다.
 
-![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 10.04.45.png)
+![](/assets/images/posts_img/github-first/스크린샷%202022-10-11%20오후%2010.04.45.png)
 ```bash
 ruby-install ruby -- --enable-shared
 ```
 
 해당 방법으로 하니 설치가 완료됐다.
 
-![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.52.55.png)
+![](/assets/images/posts_img/github-first/스크린샷%202022-10-11%20오후%209.52.55.png)
 
 </div>
 </details>  
@@ -128,7 +128,7 @@ echo "chruby ruby-3.1.2" >> ~/.zshrc
 ruby -v
 ```
 
-![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 11.25.12.png)
+![](/assets/images/posts_img/github-first/스크린샷%202022-10-11%20오후%2011.25.12.png)
 
 <br>
 ### 5. Install Jekyll 

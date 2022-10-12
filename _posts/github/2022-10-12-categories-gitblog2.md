@@ -1,11 +1,11 @@
 ---
-title: "[Github 블로그 - jekyll] 블로그 시작하기(2) - jekyll theme 적용 "
+title: "[Github 블로그 - Jekyll] 블로그 시작하기(2) - Jekyll theme 적용 "
 excerpt: "테마 적용하기"
 
 categories:
-  - Github
+  - Jekyll
 tags:
-  - [Github]
+  - [Github, Jekyll]
 
 permalink: /Github/blog2/
 
@@ -16,7 +16,7 @@ date: 2022-10-12
 last_modified_at: 2022-10-12
 ---
 
-## 📍 jekyll 테마 적용하기
+## 📍 Jekyll 테마 적용하기
 앞에서 기존 세팅을 완료하였으니, 이젠 원하는 테마를 적용 할 차례다.
 
 👉🏻 [이전글 - [Github 블로그 - jekyll] 블로그 시작하기(1) - chruby, ruby 설치](https://kimrumm.github.io/Github/first/)
@@ -33,7 +33,7 @@ Simple Is The Best !
 - <https://github.com/mmistakes/minimal-mistakes>
 
 이렇게 다양한 스킨도 있어서 입맛대로 설정 할 수 있다. 
-![](/assets/images/posts_img/github-2/스크린샷 2022-10-12 오후 3.47.02.png)
+![](/assets/images/posts_img/github-2/스크린샷%202022-10-12%20오후%203.47.02.png)
 
 전체적인 이미지는 이렇다.
 ![](/assets/images/posts_img/github-2/air-skin-archive-large.png)
@@ -53,10 +53,10 @@ choiis 님의 커스텀 테마다 !!!
 > 
 
 - 원하는 테마를 Fork 하여 가져온 후 압축파일을 다운받는다.
-![](/assets/images/posts_img/github-2/스크린샷 2022-10-12 오후 4.05.30.png)
+![](/assets/images/posts_img/github-2/스크린샷%202022-10-12%20오후%204.05.30.png)
 
 - 압축파일을 풀고, clone한 폴더에 `copy & paste` 하면 끝! 
-![](/assets/images/posts_img/github-2/스크린샷 2022-10-12 오후 4.10.55.png)
+![](/assets/images/posts_img/github-2/스크린샷%202022-10-12%20오후%204.10.55.png)
 
 이렇게 테마 적용은 끝이 났다. 
 
