@@ -57,9 +57,9 @@ Jekyll를 사용하려면 Ruby 개발환경이 필요하다.
 <summary>Homebrew 설치하기</summary>
 <div markdown="1">
 
-    ```bash
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    ```
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 </div>
 </details>  
@@ -80,10 +80,10 @@ ruby-install ruby
 하지만 오류 발생..^^
 ![](/assets/images/posts_img/github-first/스크린샷%202022-10-11%20오후%209.56.50.png)
 
-현재 14인치 맥북프로 (M1 Pro) 인데, M1이라 그런지 위에 방법으론 설치가 안됐다.    
-그래서 폭풍 검색 후 해결 방법을 찾았다.
-
-
+현재 14인치 맥북프로 (M1 Pro) 인데,    
+M1이라 그런지 위에 방법으론 설치가 안됐다. 그래서 폭풍 검색 후 해결 방법을 찾았다.
+> 회사 컴퓨터는 M1이고, 집에서 쓰는 맥북프로는 Intel이다.   
+> Intel 맥에서는 `ruby-install ruby` 로 실행했을때 정상적으로 설치된다. 
 
 <details>
 <summary>Apple Silicon Mac (M1/M2) 일때 루비 설치 방법</summary>
