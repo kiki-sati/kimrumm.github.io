@@ -34,7 +34,7 @@ last_modified_at: 2022-10-12
 테마 고르기부터, 내 입맛에 맞게 하려면 HTML,CSS 수정도 해야하고, 루비도 깔아야하고,   
 따로 설정할게 많기 때문에 재밌어보인다. 
 
-
+---
 # 깃허브 블로그 만들기 Start!
 
 <aside>
@@ -42,7 +42,7 @@ last_modified_at: 2022-10-12
 </aside>
 
 ### 1. Github Repository 생성
-![](../assets/images/posts_img/github-first/repository.png)
+![](/assets/images/posts_img/github-first/repository.png)
 
 [`username.github.io`](http://username.github.io) 로 생성한다.
 
@@ -80,7 +80,7 @@ ruby-install ruby
 ```
 
 하지만 오류 발생..^^
-![](../assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.56.50.png)
+![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.56.50.png)
 
 현재 14인치 맥북프로 (M1 Pro) 인데, M1이라 그런지 위에 방법으론 설치가 안됐다.    
 그래서 폭풍 검색 후 해결 방법을 찾았다.
@@ -101,18 +101,19 @@ brew config
 아래쪽에서 `CLT:`와 `Xcode:`로 시작하는 줄을 찾는다.   
 둘 중 하나가 `14`로 시작하는 경우 다음과 같이 Ruby를 설치해야한다.
 
-![](../assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 10.04.45.png)
+![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 10.04.45.png)
 ```bash
 ruby-install ruby -- --enable-shared
 ```
 
 해당 방법으로 하니 설치가 완료됐다.
 
-![](../assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.52.55.png)
+![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 9.52.55.png)
 
 </div>
 </details>  
 
+<br>
 ### 3. 자동으로 chruby를 사용하더록 쉘 구성
 
 ```bash
@@ -121,23 +122,23 @@ echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
 echo "chruby ruby-3.1.2" >> ~/.zshrc
 ```
 
-### 4. 루비 버전 확인
-
+<br>
+### 4. 루비 버전 확인   
 - 3.1.2p20 (2022-04-12 revision 4491bb740a) or 최신버전으로 나와야한다.
 
 ```bash
 ruby -v
 ```
 
-![](../assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 11.25.12.png)
+![](/assets/images/posts_img/github-first/스크린샷 2022-10-11 오후 11.25.12.png)
 
+<br>
 ### 5. Install Jekyll 
 
 ```bash
 gem install jekyll
 ```
-
-### 참고
-
+---
+#### 참고
 - [Jekyll DOCS](https://jekyllrb.com/docs/installation/macos/)
 - [The fastest and easiest way to install Ruby on a Mac in 2022](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)
