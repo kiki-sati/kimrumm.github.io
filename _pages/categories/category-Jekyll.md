@@ -1,9 +1,9 @@
 ---
-title: "Jekyll"
+title: "Blog"
 layout: category
-permalink: /categories/Jekyll/
+permalink: /categories/Blog/
 author_profile: true
-taxonomy: Jekyll
+taxonomy: Blog
 sidebar:
   nav: "categories"
 ---
