@@ -139,7 +139,7 @@ git push 하기 전에 로컬 서버 실행 후 확인 해본다.
 
 `_config.yml` 와 같은 위치에 아래 파일을 넣어준다.
 
-검색엔진 크롤러들이 홈페이지를 크롤링하는데 도움을 주는 파일이다. [https://velog.io/@eona1301/Github-Blog-검색창-노출시키기](https://velog.io/@eona1301/Github-Blog-%EA%B2%80%EC%83%89%EC%B0%BD-%EB%85%B8%EC%B6%9C%EC%8B%9C%ED%82%A4%EA%B8%B0)
+검색엔진 크롤러들이 홈페이지를 크롤링하는데 도움을 주는 파일이다.
 
 ```bash
 User-agent: *
