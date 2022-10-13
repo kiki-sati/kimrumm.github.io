@@ -1,6 +1,6 @@
 ---
 title: "[Github 블로그 - Jekyll] 블로그 시작하기(4) - 블로그 구글 검색 노출 시키기(Google Search Console)"
-excerpt: "Local 환경 세팅, LiveReload 적용"
+excerpt: "Google Search Console 설정법"
 
 categories:
   - Blog
