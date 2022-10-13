@@ -22,8 +22,8 @@ locale: "ko-KR" #"en-US"
 title: "Here And Now" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
+name: "kimrumm" # 블로그 닉네임 설정
+description: "kimrumm dev blog!" # 블로그 설명
 url: "https://kimrumm.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "kimrumm/kimrumm.github.io" # GitHub Repo 이름
@@ -243,9 +243,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+tag_archive:
+ type: liquid
+ path: /tags/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
