@@ -20,8 +20,8 @@ main:
 categories:
   - title: "Github"
     children:
-      - title: "Jekyll"
-        url: /categories/Jekyll/
+      - title: "Blog"
+        url: /categories/Blog/
 
   - title: "Java"
     url: /categories/Java/

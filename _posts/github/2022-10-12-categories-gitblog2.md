@@ -3,7 +3,7 @@ title: "[Github 블로그 - Jekyll] 블로그 시작하기(2) - Jekyll theme 적
 excerpt: "테마 적용하기"
 
 categories:
-  - Jekyll
+  - Blog
 tags:
   - [Github, Jekyll]
 

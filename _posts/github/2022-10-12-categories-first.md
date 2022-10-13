@@ -3,7 +3,7 @@ title: "[Github 블로그 - Jekyll] 블로그 시작하기(1) - chruby, ruby 설
 excerpt: "Repository생성 및 chruby, ruby 설치하기"
 
 categories:
-- Jekyll
+- Blog
 tags:
 - [Github, Jekyll]
 

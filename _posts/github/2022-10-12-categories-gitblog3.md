@@ -3,7 +3,7 @@ title: "[Github 블로그 - Jekyll] 블로그 시작하기(3) - Jekyll Local에�
 excerpt: "Local 환경 세팅, LiveReload 적용"
 
 categories:
-  - Jekyll
+  - Blog
 tags:
   - [Github, Jekyll]
 
