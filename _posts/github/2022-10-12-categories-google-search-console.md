@@ -7,6 +7,9 @@ categories:
 tags:
   - [Github, Jekyll, GoogleSearchConsole ]
 
+header:
+    teaser: "/assets/images/posts_img/blogsearch/4.png"
+
 permalink: /Github/blog3/
 
 toc: true
@@ -15,6 +18,8 @@ toc_sticky: true
 date: 2022-10-13
 last_modified_at: 2022-10-13
 ---
+
+![](/assets/images/posts_img/blogsearch/4.png)
 
 블로그를 만들었다면 혼자 보고 만족하는게 아닌,
 

@@ -7,6 +7,9 @@ categories:
 tags:
   - [Github, Jekyll]
 
+header:
+    teaser: "/assets/images/posts_img/github-2/Untitled.png"
+
 permalink: /Github/blog2/
 
 toc: true
@@ -15,6 +18,8 @@ toc_sticky: true
 date: 2022-10-12
 last_modified_at: 2022-10-12
 ---
+
+![](/assets/images/posts_img/github-2/Untitled.png)
 
 ## 📍 Jekyll 테마 적용하기
 앞에서 기존 세팅을 완료하였으니, 이젠 원하는 테마를 적용 할 차례다.

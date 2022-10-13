@@ -6,6 +6,8 @@ categories:
 - Blog
 tags:
 - [Github, Jekyll]
+header:
+  teaser: "/assets/images/posts_img/github-first/1.png"
 
 permalink: /Github/first/
 
@@ -15,6 +17,7 @@ toc_sticky: true
 date: 2022-10-12
 last_modified_at: 2022-10-12
 ---
+![](/assets/images/posts_img/github-first/1.png)
 
 ## 📍 Why, Github로 블로그를 만들었냐면!
 ### 1. 마크다운 (Markdown) 못잃어!

@@ -6,7 +6,8 @@ categories:
   - Blog
 tags:
   - [Github, Jekyll]
-
+header:
+  teaser: "/assets/images/posts_img/blogsearch/3.png"
 permalink: /Github/blog3/
 
 toc: true
@@ -15,7 +16,7 @@ toc_sticky: true
 date: 2022-10-12
 last_modified_at: 2022-10-12
 ---
-
+![](/assets/images/posts_img/blogsearch/3.png)
 ## 📍 Jekyll Local 환경 세팅
 
 이전글에서 블로그를 사용할 세팅이 끝났다.  
