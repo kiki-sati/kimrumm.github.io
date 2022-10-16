@@ -1,5 +1,5 @@
 ---
-title: "[Github 블로그 - Jekyll] 블로그 시작하기(2) - Jekyll theme 적용 "
+title: "[GitHub Pages - Jekyll] 블로그 시작하기(2) - Jekyll theme 적용 "
 excerpt: "테마 적용하기"
 
 categories:

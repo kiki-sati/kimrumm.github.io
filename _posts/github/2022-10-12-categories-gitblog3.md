@@ -1,5 +1,5 @@
 ---
-title: "[Github 블로그 - Jekyll] 블로그 시작하기(3) - Jekyll Local에서 사용하기, LiveReload 적용 "
+title: "[GitHub Pages - Jekyll] 블로그 시작하기(3) - Jekyll Local에서 사용하기, LiveReload 적용 "
 excerpt: "Local 환경 세팅, LiveReload 적용"
 
 categories:
